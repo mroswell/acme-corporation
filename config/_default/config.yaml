@@ -1,9 +1,9 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
-theme: Universal
-publishDir: docs                              # Output folder
-enableEmoji: true
+#baseURL: http://example.org/
+#languageCode: en-us
+#title: My New Hugo Site
+#theme: Universal
+#publishDir: docs                              # Output folder
+#enableEmoji: true
 
 baseURL: http://example.org/                  # Hosting location.
 languageCode: en-us                           # Locale
