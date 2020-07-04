@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: Universal
+publishDir: docs                              # Output folder
+enableEmoji: true
+
+baseURL: http://example.org/                  # Hosting location.
+languageCode: en-us                           # Locale
+title: Acme Corporation                       # Name of the website
+theme: Eclectic                               # Name of the theme
+publishDir: docs                              # Output folder
+enableEmoji: true                             # Enable Emoticons
+
