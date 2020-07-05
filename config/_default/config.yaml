@@ -12,3 +12,4 @@ theme: Eclectic                               # Name of the theme
 publishDir: docs                              # Output folder
 enableEmoji: true                             # Enable Emoticons
 enableInlineShortcodes: true
+sectionPagesMenu: home
